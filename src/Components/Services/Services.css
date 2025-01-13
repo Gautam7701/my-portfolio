@@ -60,3 +60,9 @@
     height: 90vh;
   }
   
+  @media (max-width: 768px) {
+    .approach-section {
+      display: flex;
+      flex-direction: column;
+    }
+  }
