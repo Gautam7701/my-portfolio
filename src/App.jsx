@@ -17,10 +17,7 @@ const App = () => {
       <section id="#services">
       <Services/>
       </section>
-      {/* <section  */}
-      {/* <Projects/> */}
       <Project/>
-      {/* </section> */}
       <section id="#contact">
       <Contact/>
       </section>
